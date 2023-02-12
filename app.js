@@ -1,1 +1,4 @@
-conolose.log ("Rodando o sistema de gerenciamento de jogos")
+conlose.log ("Rodando o sistema de gerenciamento de jogos")
+
+
+console.log("Enviando para o git hub")
